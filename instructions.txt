@@ -1,0 +1,8 @@
+[ ] Create folder
+[ ] Create class
+[ ] Install npm with npm init
+[ ] Install babel with @babel/core @babel/cli
+[ ] Install @babel/preset-env 
+[ ] Create build folder with command
+[ ] Create .babelrc file and configure
+[ ] Add browserslist to .babelrc

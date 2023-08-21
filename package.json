@@ -1,0 +1,29 @@
+{
+  "name": "babelapp",
+  "version": "1.0.0",
+  "description": "For educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "educational",
+    "babel",
+    "react",
+    "js"
+  ],
+  "author": "Murat Toimet",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5"
+  },
+  "dependencies": {
+    "core-js": "^3.32.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
